@@ -1,0 +1,6 @@
+helper\BrowserFactory.class
+stepDefinitions\bookingFormStep.class
+stepDefinitions\bookACustomerStep.class
+stepDefinitions\deleteARecordStep.class
+runner\TestRunner.class
+pages\hotelBookingFormPage.class
